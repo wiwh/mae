@@ -1,2 +1,2 @@
-# mae
-An implementation in tensorflow of my M-estimator auto-encoder, a generative model similar to a VAE but without using the variational approximation.
+# MAE
+An implementation in tensorflow of the M-estimator auto-encoder (which can be seen as a gradient-matching auto-encoder), a generative model similar to a VAE but without needing variational approximations.
